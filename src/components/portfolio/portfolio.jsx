@@ -3,7 +3,7 @@ import './portfolio.css'
 
 function porfolio() {
   return (
-    <div>porfolio</div>
+    <section id='portfolio'>Porfolio</section>
   )
 }
 
